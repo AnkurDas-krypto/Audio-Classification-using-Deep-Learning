@@ -1,7 +1,7 @@
 # Audio-Classification-using-Deep-Learning
 
-# install necessary libraries like librosa 
-# !pip install librosa 
+ install necessary libraries like librosa 
+ !pip install librosa 
 
 import matplotlib for showing the waves
 
